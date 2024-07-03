@@ -11,6 +11,7 @@ public class PolymorphismIntro {
         array[1]=str;
         array[2]=eVertete;
         array[3]=true;
+        array[4]=true;
 
 
     }
